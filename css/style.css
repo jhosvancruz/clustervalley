@@ -149,7 +149,7 @@ blockquote::before{
 }
 .dark-bg .content-title{color:#fff;}
 .content-title span {
-    color: #ff1744;
+    color: #1f1f1f;
 }
 .content-line {
     height: 1px;
@@ -312,7 +312,7 @@ blockquote::before{
 	width: 50%;
 	position:relative;
 }
-.table-content h3 > span{color:#ff1744;}
+.table-content h3 > span{color:#1f1f1f;}
 .table-content.box-30 h3 {
     display: inline-block;
     text-align: left;
@@ -385,8 +385,9 @@ blockquote::before{
     font-size: 90px;
     margin: 60px 0 100px;
 }
+/*titulo punto*/
 .slider-title span {
-    color: #ff1744;
+    color: #1f1f1f;
 }
 .hero-box{background:#fff;}
 .hero-title {
