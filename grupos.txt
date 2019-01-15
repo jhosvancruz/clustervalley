@@ -1,0 +1,31 @@
+*berries
+arandano
+frambueza
+fresa
+zarzamora
+
+*verduras
+pepino
+pimiento morron
+chile verde
+
+*frutas
+tomate rojo cherry
+tomate verde
+berengenas
+
+*floricultura
+crisantemo
+girasol
+rosa
+
+*extensivos
+aguacate
+
+*agave
+
+*caña de azucar
+
+*maiz
+
+*trigo
